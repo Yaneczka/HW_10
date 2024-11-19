@@ -1,0 +1,85 @@
+    1  cd
+    2  cd users
+    3  man cd
+    4  cd
+    5  git dir
+    6  dir
+    7  cd user
+    8  cd desktop
+    9  cd c
+   10  dir
+   11  cd users
+   12  cd user
+   13  cd desktop
+   14  cd praktyk_6
+   15  dir
+   16  cd HW_10
+   17  git push
+   18  git pull
+   19  git push
+   20  cd c
+   21  cd users
+   22  cd user
+   23  cd desktop
+   24  cd praktyk_6
+   25  cd HW_10
+   26  cd HW_10
+   27  git status
+   28  git pull
+   29  git status
+   30  git add .gitignore
+   31  git add command_list.csv
+   32  git add develop_test.txt
+   33  git add main_test/txt
+   34  git add main_test.txt
+   35  git add text_ignore.txt
+   36  commit -m "poprawki"
+   37  git commit -m "Poprawki"
+   38  giit status
+   39  git status
+   40  git push
+   41  cd c
+   42  cd users
+   43  cd user
+   44  cd desktop
+   45  cd praktyk_6
+   46  clear
+   47  git config -- global user name
+   48  git config -- global user.name
+   49  user name
+   50  user.name
+   51  git config
+   52  clear
+   53  git config --global user.name
+   54  git config --global user.email
+   55  git clone https://github.com/Yaneczka/HW_10.git
+   56  cd HW_10
+   57  type null > text_ignore.txt
+   58  touch text_ignore.txt
+   59  notepad .gitignore
+   60  git status
+   61  git add text_ignore.txt
+   62  -f
+   63  git commit -m "text_ignore"
+   64  git status
+   65  git add .gitignore
+   66  git commit -m "text_ignore"
+   67  git status
+   68  touch main_test.txt
+   69  git add main_test.txt
+   70  git commit -m "main_test"
+   71  git checkout -b develop
+   72  touch develop_test.txt
+   73  git add develop_test.txt
+   74  git commit -m "develop_test"
+   75  notepad develop_test.txt
+   76  git status
+   77  git add develop_test.txt
+   78  git commit -m "save develop_test"
+   79  git checkout
+   80  git checkout main
+   81  git branch
+   82  git merge develop
+   83  git branch
+   84  git log
+   85  history > command_list.csv
